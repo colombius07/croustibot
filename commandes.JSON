@@ -1,0 +1,15 @@
+[
+    {
+      "name": "quoi",
+      "description": "Envoie feur"
+    },
+    {
+      "name": "ping",
+      "description": "Répond pong"
+    },
+    {
+        "name": "argent",
+        "description":"Pour savoir combien de sub tu peux offrir"
+    }
+  ]
+  
