@@ -17,10 +17,10 @@ const client = new Client({
 });
 
 // Charger les fonctions de commandes depuis commandes.js
-const commandes = require('./commandes.js');
+const commandes = require('./commandes.js').default;
 
 // Charger les commandes depuis le fichier commandes.json
-const commandesData = JSON.parse(fs.readFileSync(path.resolve('commandes.json'), 'utf-8'));
+const commandesData = JSON.parse(fs.readFileSync(path.resolve('commandes.JSON'), 'utf-8'));
 
 // Créer une Map pour associer les noms de commandes à leurs fonctions
 client.commands = new Map();
