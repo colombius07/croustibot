@@ -34,4 +34,4 @@ function argent(message, args) {
     }
 }
 
-export default { quoi, ping, argent };
+module.exports = { quoi, ping, argent };
