@@ -1,15 +1,14 @@
 [
-    {
-      "name": "quoi",
-      "description": "Envoie feur"
-    },
-    {
-      "name": "ping",
-      "description": "Répond pong"
-    },
-    {
-        "name": "argent",
-        "description":"Pour savoir combien de sub tu peux offrir"
-    }
-  ]
-  
+  {
+    "name": "quoi",
+    "description": "Répond 'feur' pour faire une blague classique."
+  },
+  {
+    "name": "ping",
+    "description": "Répond 'pong'."
+  },
+  {
+    "name": "argent",
+    "description": "Calcule combien de subs Twitch vous pouvez offrir avec un montant donné."
+  }
+]
