@@ -50,7 +50,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 
 1. **Lancez le bot :**
    ```bash
-    node.
+    node .
    ```
    
 2. **Commandes disponibles :**
