@@ -44,7 +44,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 5. **Configurez les variables d'environnement :**
 
 - Créez un fichier .env à la racine du projet.
-- Ajoutez-y votre token :
+   - Ajoutez-y votre token :
   `DISCORD_TOKEN=Votre_Token_Ici`
 ## Utilisation
 
