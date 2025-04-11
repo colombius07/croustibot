@@ -14,7 +14,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 1. **Clonez le repository :**
 
    ```bash
-   git clone https://votre-url-de-repository.git
+   git clone https://github.com/colombius07/tonybot.git
    cd nom-du-dossier-du-projet
    ```
 
@@ -31,15 +31,15 @@ Avant de commencer, assurez-vous d'avoir installé :
 4. **Configurez votre bot :**
 
 - Créez une application sur le [portail développeur Discord](https://discord.com/developers/applications):
--  Allez dans l'onglet "Applications" et cliquez sur "New Application".
--  Donnez un nom à votre application et cliquez sur "Create".
--  Dans l'onglet "Bot", cliquez sur "Add Bot" et confirmez.
--  Copiez le "TOKEN" généré, vous en aurez besoin plus tard.
+= Allez dans l'onglet "Applications" et cliquez sur "New Application".
+= Donnez un nom à votre application et cliquez sur "Create".
+= Dans l'onglet "Bot", cliquez sur "Add Bot" et confirmez.
+= Copiez le "TOKEN" généré, vous en aurez besoin plus tard.
 - Ajoutez le bot à votre serveur Discord :
--  Toujours dans l'onglet "OAuth2" de votre application, allez dans "URL Generator".
--  Cochez "bot" dans les scopes.
--  Sous "OAuth2 URL Generator", sélectionnez les permissions que vous souhaitez accorder à votre bot (par exemple, "Administrator" pour un accès complet).
--  Copiez l'URL générée et ouvrez-la dans votre navigateur pour inviter le bot sur votre serveur.
+= Toujours dans l'onglet "OAuth2" de votre application, allez dans "URL Generator".
+= Cochez "bot" dans les scopes.
+= Sous "OAuth2 URL Generator", sélectionnez les permissions que vous souhaitez accorder à votre bot (par exemple, "Administrator" pour un accès complet).
+= Copiez l'URL générée et ouvrez-la dans votre navigateur pour inviter le bot sur votre serveur.
 
 5. **Configurez les variables d'environnement :**
 
